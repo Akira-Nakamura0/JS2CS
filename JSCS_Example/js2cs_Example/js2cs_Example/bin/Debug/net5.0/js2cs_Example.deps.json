@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "js2cs_Example/1.0.0": {
+        "dependencies": {
+          "JS2CS": "1.0.2.1"
+        },
+        "runtime": {
+          "js2cs_Example.dll": {}
+        }
+      },
+      "JS2CS/1.0.2.1": {
+        "runtime": {
+          "JS2CS.dll": {
+            "assemblyVersion": "1.0.2.1",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "js2cs_Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JS2CS/1.0.2.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

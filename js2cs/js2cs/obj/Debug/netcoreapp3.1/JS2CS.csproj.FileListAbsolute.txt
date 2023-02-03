@@ -1,0 +1,10 @@
+C:\Projects\JS2CS\js2cs\js2cs\obj\Debug\netcoreapp3.1\JS2CS.csproj.AssemblyReference.cache
+C:\Projects\JS2CS\js2cs\js2cs\obj\Debug\netcoreapp3.1\JS2CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\JS2CS\js2cs\js2cs\obj\Debug\netcoreapp3.1\JS2CS.AssemblyInfoInputs.cache
+C:\Projects\JS2CS\js2cs\js2cs\obj\Debug\netcoreapp3.1\JS2CS.AssemblyInfo.cs
+C:\Projects\JS2CS\js2cs\js2cs\obj\Debug\netcoreapp3.1\JS2CS.csproj.CoreCompileInputs.cache
+C:\Projects\JS2CS\js2cs\js2cs\bin\Debug\netcoreapp3.1\JS2CS.deps.json
+C:\Projects\JS2CS\js2cs\js2cs\bin\Debug\netcoreapp3.1\JS2CS.dll
+C:\Projects\JS2CS\js2cs\js2cs\bin\Debug\netcoreapp3.1\JS2CS.pdb
+C:\Projects\JS2CS\js2cs\js2cs\obj\Debug\netcoreapp3.1\JS2CS.dll
+C:\Projects\JS2CS\js2cs\js2cs\obj\Debug\netcoreapp3.1\JS2CS.pdb

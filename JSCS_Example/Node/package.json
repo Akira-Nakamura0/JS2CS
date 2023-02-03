@@ -1,0 +1,16 @@
+{
+  "name": "cs-comms", 
+  "version": "1.0.1", 
+  "description": "A NodeJS - C# Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "akira-nakamura",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.12.0"
+  }
+}
